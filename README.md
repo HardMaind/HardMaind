@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript and python.
 - 🌱 I’m currently learning nodeJS reactJS and python and it's framework django.
 - 💞️ I’m looking to collaborate on javascript and python related.
-- 📫 How to reach me with instgram and twitter.
+- 📫 How to reach me in instgram and twitter.
 
 <!---
 HardMaind/HardMaind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
