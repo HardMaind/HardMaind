@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HardMaind
-- 👀 I’m interested in JavaScript and python.
-- 🌱 I’m currently learning nodeJS reactJS and python and it's framework django.
-- 💞️ I’m looking to collaborate on javascript and python related.
-- 📫 How to reach me in instgram and twitter.
+- 👀 I’m interested in JavaScript and there framework like Vue js and react js.
+- 🌱 I’m currently learning advance nodeJS.
+- 💞️ I’m looking to collaborate on javascript.
 
 <!---
 HardMaind/HardMaind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
